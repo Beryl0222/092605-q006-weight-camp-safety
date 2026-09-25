@@ -1,0 +1,9 @@
+[project]
+name = "weight-camp-safety"
+version = "0.1.0"
+description = "减重训练安全干预的服务端基础"
+requires-python = ">=3.11"
+dependencies = []
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
